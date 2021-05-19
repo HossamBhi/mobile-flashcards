@@ -1,0 +1,9 @@
+export const PRIMARY_COLOR = "#0D47A1";
+export const c2 = "#1A237E";
+export const c3 = "#303F9F";
+export const c4 = "#1976D2";
+export const white = "#FFFFFF";
+export const black = "#000000";
+export const red = "#D50000";
+export const green = "#2E7D32";
+export const gray = "#ECEFF1";

@@ -5,6 +5,8 @@
     "name": "Flashcards",
     "slug": "Flashcards",
     "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/flashcards-logo.png",
     "assetBundlePatterns": [
       "**/*"
     ]
